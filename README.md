@@ -1,0 +1,2 @@
+# YouTubeShorts_controller
+ショート動画で時間を無駄にしてしまうあなたへ
